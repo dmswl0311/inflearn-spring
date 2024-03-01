@@ -14,6 +14,10 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AppConfig {
+
+    //@Bean memberService -> new MemoryMemberRepository()
+    //@Bean orderServive -> new MemoryMemberRepository() ?? -> 싱글톤이 깨짐?
+
     @Bean
     public MemberService memberService() {
         return new MemberServiceImpl(MemberRepository());
