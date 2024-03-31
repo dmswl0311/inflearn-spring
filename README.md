@@ -1,3 +1,3 @@
 # inflearn-spring
 
-[노션 내용 정리](https://peridot-panther-768.notion.site/4972bddd828942258a2365cae0cab45a?pvs=4)
+[노션 내용 정리](https://dmswlcho.notion.site/be2f412627be45d9bbaabb5b34532d8e?pvs=4)
